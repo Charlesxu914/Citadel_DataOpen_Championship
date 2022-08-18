@@ -1,0 +1,432 @@
+,Economy,Economy Label
+0,0,World
+1,4,Afghanistan
+2,8,Albania
+3,12,Algeria
+4,16,American Samoa
+5,20,Andorra
+6,24,Angola
+7,28,Antigua and Barbuda
+8,31,Azerbaijan
+9,32,Argentina
+10,36,Australia
+11,40,Austria
+12,44,Bahamas
+13,48,Bahrain
+14,50,Bangladesh
+15,51,Armenia
+16,52,Barbados
+17,56,Belgium
+18,60,Bermuda
+19,64,Bhutan
+20,68,Bolivia (Plurinational State of)
+21,70,Bosnia and Herzegovina
+22,72,Botswana
+23,76,Brazil
+24,84,Belize
+25,90,Solomon Islands
+26,92,British Virgin Islands
+27,96,Brunei Darussalam
+28,100,Bulgaria
+29,104,Myanmar
+30,108,Burundi
+31,112,Belarus
+32,116,Cambodia
+33,120,Cameroon
+34,124,Canada
+35,132,Cabo Verde
+36,136,Cayman Islands
+37,140,Central African Republic
+38,144,Sri Lanka
+39,148,Chad
+40,152,Chile
+41,156,China
+42,158,"China, Taiwan Province of"
+43,170,Colombia
+44,174,Comoros
+45,178,Congo
+46,180,"Congo, Dem. Rep. of the"
+47,184,Cook Islands
+48,188,Costa Rica
+49,191,Croatia
+50,192,Cuba
+51,196,Cyprus
+52,203,Czechia
+53,204,Benin
+54,208,Denmark
+55,2101,Developed economies: Asia and Oceania
+56,2102,Developing economies: Asia and Oceania
+57,2103,Developed economies: Asia
+58,2104,Developing economies: Asia
+59,2105,Developed economies: Oceania
+60,2106,Developing economies: Oceania
+61,2116,Sub-Saharan Africa excluding South Africa
+62,2117,Africa excluding South Africa
+63,212,Dominica
+64,214,Dominican Republic
+65,2160,Developing economies excluding China
+66,2161,Developing economies excluding LDCs
+67,218,Ecuador
+68,2200,Developing regions (M49)
+69,2205,Developed regions (M49)
+70,2210,LDCs (Least developed countries)
+71,2211,LDCs: Africa and Haiti
+72,2213,LDCs: Asia
+73,2216,LDCs: Islands
+74,222,El Salvador
+75,2220,LLDCs (Landlocked developing countries)
+76,2221,LDCs: Africa
+77,2222,LDCs: Islands and Haiti
+78,2230,SIDS (Small island developing States) (analytical)
+79,2231,SIDS: Atlantic and Indian Ocean
+80,2232,SIDS: Caribbean
+81,2233,SIDS: Pacific
+82,2250,SIDS (Small island developing States) (UN-OHRLLS)
+83,226,Equatorial Guinea
+84,231,Ethiopia
+85,232,Eritrea
+86,233,Estonia
+87,234,Faroe Islands
+88,2370,Selected exporters of petroleum
+89,2371,Selected exporters of manufactured goods
+90,2372,Selected exporters of manufactured goods and primary commodities
+91,2373,Selected exporters of agricultural products
+92,2374,Selected exporters of minerals and mining products
+93,2376,Selected LIFDC (Low-income food-deficit countries)
+94,2378,LIFDC (Low-income food-deficit countries) (FAO)
+95,238,Falkland Islands (Malvinas)
+96,2411,Net food-importing economies
+97,2412,Net food-exporting economies
+98,2413,Net food-exporting developing economies
+99,2415,Net food-exporting developed economies
+100,2416,Major net food-exporting economies
+101,242,Fiji
+102,2420,Net food-importing developing economies
+103,2422,Net food-importing developed economies
+104,2423,Major net food-importing economies
+105,246,Finland
+106,2508,Industrialized economies (UNIDO)
+107,2509,EIEs (Emerging Industrial Economies) (UNIDO)
+108,251,France
+109,2510,Emerging markets
+110,2511,Emerging markets: Africa
+111,2512,Emerging markets: America
+112,2513,Emerging markets: Asia
+113,2514,Emerging markets: Europe and Kazakhstan
+114,258,French Polynesia
+115,2611,HIPCs (Heavily indebted poor countries) (IMF)
+116,262,Djibouti
+117,2621,High-income developing economies
+118,2622,Middle-income developing economies
+119,2623,Low-income developing economies
+120,2624,Low-income economies (World Bank)
+121,2625,Lower-middle-income economies (World Bank)
+122,2626,Upper-middle-income economies (World Bank)
+123,2627,High-income economies (World Bank)
+124,2628,High-income OECD members (World Bank)
+125,2629,High-income non OECD members (World Bank)
+126,266,Gabon
+127,268,Georgia
+128,270,Gambia
+129,2710,BASIC
+130,2711,BRICS
+131,275,State of Palestine
+132,276,Germany
+133,288,Ghana
+134,292,Gibraltar
+135,296,Kiribati
+136,300,Greece
+137,304,Greenland
+138,308,Grenada
+139,3101,AMU (Arab Maghreb Union)
+140,3102,COMESA (Common Market for Eastern and Southern Africa)
+141,3103,ECCAS (Economic Community of Central African States)
+142,3104,ECOWAS (Economic Community of West African States)
+143,3105,MRU (Mano River Union)
+144,3106,SADC (Southern African Development Community)
+145,3107,CEMAC (Economic and Monetary Community of Central Africa)
+146,3108,WAEMU (West African Economic and Monetary Union)
+147,3109,CEPGL (Economic Community of the Great Lakes Countries)
+148,3110,EAC (East African Community)
+149,3111,SACU (Southern African Customs Union)
+150,3112,CEN-SAD (Community of Sahel-Saharan States)
+151,3113,IGAD (Intergovernmental Authority on Development)
+152,3114,United Nations member States
+153,316,Guam
+154,320,Guatemala
+155,3201,CAN (Andean Community)
+156,3202,CACM (Central American Common Market)
+157,3203,CARICOM (Caribbean Community)
+158,3205,LAIA (Latin American Integration Association)
+159,3206,NAFTA (North American Free Trade Agreement)
+160,3207,OECS (Organisation of Eastern Caribbean States)
+161,3208,MERCOSUR (Southern Common Market)
+162,3209,ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty)
+163,3210,UNASUR (Union of South American Nations)
+164,3211,ACS (Association of Caribbean States)
+165,324,Guinea
+166,328,Guyana
+167,3301,ASEAN (Association of Southeast Asian Nations)
+168,3302,APTA (Asia-Pacific Trade Agreement)
+169,3303,GCC (The Cooperation Council for the Arab States of the Gulf)
+170,3304,SAARC (South Asian Association for Regional Cooperation)
+171,3305,"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea"
+172,3306,ECO (Economic Cooperation Organization)
+173,3307,African Union
+174,3310,"ADB (African Development Bank), developing member countries"
+175,3311,ADB: Group A
+176,3312,ADB: Group B
+177,3313,ADB: Group C
+178,332,Haiti
+179,3320,ECA (Economic Commission for Africa)
+180,3321,ECA: North Africa
+181,3322,ECA: Eastern Africa
+182,3323,ECA: Central Africa
+183,3324,ECA: Southern Africa
+184,3325,ECA: West Africa
+185,3326,ECA: Island economies
+186,3327,ECA: Landlocked countries
+187,3328,ECA: Landlocked LDCs
+188,3329,ECA: Least developed countries
+189,3330,ECLAC (Economic Commission for Latin America and the Caribbean)
+190,3331,ECLAC: Caribbean
+191,3332,ECLAC: Latin America
+192,3333,ECA: Mineral-rich countries
+193,3334,ECA: Non-oil LDCs
+194,3335,ECA: Non-oil Producing
+195,3336,ECA: Oil LDCs
+196,3337,ECA: Oil producing economies
+197,3338,ECA: Sahel
+198,3339,ECA: Small island States
+199,3340,ESCAP (Economic and Social Commission for Asia and the Pacific)
+200,3341,ESCAP: Africa
+201,3342,ESCAP: Latin America
+202,3343,ESCAP: Europe
+203,3344,ESCAP: East and North-East Asia (ENEA)
+204,3345,ESCAP: North and Central Asia
+205,3346,ESCAP: South and South-West Asia
+206,3347,ESCAP: Pacific
+207,3348,ESCAP: Pacific island developing economies (PIDE)
+208,3349,ESCAP: Other area
+209,3350,"ESCAP: East and North-East Asia, incl. the Russian Federation"
+210,3351,ESCAP: Least developed countries
+211,3352,ESCAP: Landlocked developing countries
+212,3353,ESCAP: Countries with special needs
+213,3354,ESCAP: Small islands developing States
+214,3355,UNECE (Economic Commission for Europe)
+215,3356,ESCAP: High-income economies (World Bank)
+216,3357,ESCAP: Upper-middle-income economies (World Bank)
+217,3358,ESCAP: Lower-middle-income economies (World Bank)
+218,3359,ESCAP: Low-income economies (World Bank)
+219,3360,"UNECE: Eastern Europe, Caucasus and Central Asia"
+220,3361,UNECE: West Balkans
+221,3370,ESCWA (Economic and Social Commission for Western Asia)
+222,3371,ESCWA: Arab countries
+223,3372,ESCWA: Mashreq
+224,3373,ESCWA: Maghreb
+225,3374,ESCWA: Arab LDCs
+226,3380,CBD (Convention on Biological Diversity)
+227,3381,CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)
+228,3382,Nagoya Protocol on Access and Benefit Sharing
+229,3383,LMMC (Like-Minded Megadiverse Countries)
+230,3384,BioTrade countries
+231,340,Honduras
+232,3401,EFTA (European Free Trade Association)
+233,3402,EU25 (European Union 2004 … 2007)
+234,3404,EU15 (European Union 1995 … 2004)
+235,3406,Euro area
+236,3408,EU27 (European Union 2007 … 2013)
+237,3410,EU28 (European Union 2013 … 2020)
+238,3411,CEFTA (Central European Free Trade Agreement)
+239,3412,European Union (2020 …)
+240,344,"China, Hong Kong SAR"
+241,348,Hungary
+242,3501,MSG (Melanesian Spearhead Group)
+243,352,Iceland
+244,356,India
+245,360,Indonesia
+246,3601,Northern America and Europe
+247,3602,Central and Southern Asia
+248,3603,Eastern and South-Eastern Asia
+249,3604,Western Asia and Northern Africa
+250,364,Iran (Islamic Republic of)
+251,368,Iraq
+252,372,Ireland
+253,376,Israel
+254,380,Italy
+255,384,Côte d'Ivoire
+256,388,Jamaica
+257,3901,APEC (Asia-Pacific Economic Cooperation)
+258,3903,CIS (Commonwealth of Independent States)
+259,3905,OECD (Organisation for Economic Cooperation and Development)
+260,3906,OPEC (Organization of the Petroleum Exporting Countries)
+261,3907,"ACP (African, Caribbean and Pacific Group of States)"
+262,3908,LAS (League of Arab States)
+263,3909,OIC (Organisation of Islamic Cooperation)
+264,3910,OAS (Organization of American States)
+265,3912,G7 (Group of Seven)
+266,3913,G8 (Group of Eight)
+267,3916,G20 (Group of Twenty)
+268,3919,G-77 (Group of 77)
+269,392,Japan
+270,3921,GSTP (Global System of Trade Preferences among Developing Countries)
+271,3922,GSTP: Africa
+272,3923,GSTP: Latin America
+273,3924,GSTP: Asia
+274,3932,TPP (Trans-Pacific Partnership)
+275,3940,ACP: Africa
+276,3941,ACP: Western Africa
+277,3942,ACP: Eastern Africa
+278,3943,ACP: Central Africa
+279,3944,ACP: Southern Africa
+280,3945,ACP: Caribbean
+281,3946,ACP: Pacific
+282,3947,ACP: LDCs
+283,3948,ACP: LLDCs
+284,3949,ACP: Islands States
+285,3950,ACP: Northern Africa
+286,398,Kazakhstan
+287,400,Jordan
+288,404,Kenya
+289,408,"Korea, Dem. People's Rep. of"
+290,410,"Korea, Republic of"
+291,414,Kuwait
+292,417,Kyrgyzstan
+293,418,Lao People's Dem. Rep.
+294,422,Lebanon
+295,426,Lesotho
+296,428,Latvia
+297,430,Liberia
+298,434,Libya
+299,440,Lithuania
+300,442,Luxembourg
+301,446,"China, Macao SAR"
+302,450,Madagascar
+303,454,Malawi
+304,458,Malaysia
+305,462,Maldives
+306,466,Mali
+307,470,Malta
+308,478,Mauritania
+309,480,Mauritius
+310,484,Mexico
+311,496,Mongolia
+312,498,"Moldova, Republic of"
+313,499,Montenegro
+314,500,Montserrat
+315,504,Morocco
+316,508,Mozambique
+317,5100,Africa
+318,5110,Northern Africa
+319,512,Oman
+320,5120,Sub-Saharan Africa
+321,5121,Eastern Africa
+322,5122,Middle Africa
+323,5123,Southern Africa
+324,5124,Western Africa
+325,516,Namibia
+326,520,Nauru
+327,5200,America
+328,5210,Northern America
+329,5220,Latin America and the Caribbean
+330,5221,Caribbean
+331,5222,Central America
+332,5223,South America
+333,524,Nepal
+334,528,Netherlands
+335,5300,Asia
+336,5310,Central Asia
+337,5320,Southern Asia
+338,533,Aruba
+339,5330,Eastern Asia
+340,534,Sint Maarten (Dutch part)
+341,5340,Western Asia
+342,535,"Bonaire, Sint Eustatius and Saba"
+343,5350,South-eastern Asia
+344,540,New Caledonia
+345,5400,Europe
+346,5410,Eastern Europe
+347,5420,Northern Europe
+348,5430,Southern Europe
+349,5440,Western Europe
+350,548,Vanuatu
+351,5500,Oceania
+352,554,New Zealand
+353,558,Nicaragua
+354,5600,Asia and Oceania
+355,562,Niger
+356,566,Nigeria
+357,570,Niue
+358,579,Norway
+359,580,Northern Mariana Islands
+360,583,Micronesia (Federated States of)
+361,584,Marshall Islands
+362,585,Palau
+363,586,Pakistan
+364,591,Panama
+365,598,Papua New Guinea
+366,600,Paraguay
+367,604,Peru
+368,608,Philippines
+369,616,Poland
+370,620,Portugal
+371,624,Guinea-Bissau
+372,626,Timor-Leste
+373,634,Qatar
+374,642,Romania
+375,643,Russian Federation
+376,646,Rwanda
+377,654,Saint Helena
+378,659,Saint Kitts and Nevis
+379,660,Anguilla
+380,662,Saint Lucia
+381,666,Saint Pierre and Miquelon
+382,670,Saint Vincent and the Grenadines
+383,678,Sao Tome and Principe
+384,682,Saudi Arabia
+385,686,Senegal
+386,688,Serbia
+387,690,Seychelles
+388,694,Sierra Leone
+389,702,Singapore
+390,703,Slovakia
+391,704,Viet Nam
+392,705,Slovenia
+393,706,Somalia
+394,710,South Africa
+395,716,Zimbabwe
+396,724,Spain
+397,728,South Sudan
+398,729,Sudan
+399,740,Suriname
+400,748,Eswatini
+401,752,Sweden
+402,757,"Switzerland, Liechtenstein"
+403,760,Syrian Arab Republic
+404,762,Tajikistan
+405,764,Thailand
+406,768,Togo
+407,772,Tokelau
+408,776,Tonga
+409,780,Trinidad and Tobago
+410,784,United Arab Emirates
+411,788,Tunisia
+412,792,Turkey
+413,795,Turkmenistan
+414,796,Turks and Caicos Islands
+415,798,Tuvalu
+416,800,Uganda
+417,804,Ukraine
+418,807,North Macedonia
+419,818,Egypt
+420,834,"Tanzania, United Republic of"
+421,842,United States of America
+422,854,Burkina Faso
+423,858,Uruguay
+424,860,Uzbekistan
+425,862,Venezuela (Bolivarian Rep. of)
+426,876,Wallis and Futuna Islands
+427,882,Samoa
+428,887,Yemen
+429,894,Zambia
+430,926,United Kingdom
